@@ -1,6 +1,6 @@
 # app-dev
 My first repository
-	| Syntax | Description |
+	| Movies | Anime |
 | ----------- | ----------- |
-| Header | Warm Bodies |
-| One Piece | Click |
+| Warm Bodies | One Piece |
+| Click | DragonBallZ |
